@@ -1,1 +1,5 @@
 # git_test
+
+TESTING GIT REPOSITORY.
+
+HELLO ODIN!
